@@ -18,21 +18,24 @@
 
    - 답 :x
    - 이유 : 'cd . . '이 부모 폴더로 이동하는 의미
+       - cd .. : 상위 디렉토리
+       - cd . : 
 
 
 
 3. 마크다운 문법에서 글씨의 크기를 키우고 싶다고해서 본문을 제목으로 지정하면 안된다. (맞으면 O, 틀리면 X)
-   - 답 :x
+   - 답 :o
    - 이유 :역할에 맞는 문법이아님
+       - 각 역할을 부여하는 것이기 때문에 본문을 제목으로 지정하면 혼란을 줄 수 있다.
 
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
    - 답 :x
-   - 이유 :Working Directory, Staging Area, Rapository
+   - 이유 :Working Directory, Staging Area, Rapository(커밋들이 존재하는 공간)
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
    - 답 :x
-   - 이유 :Commit ID는 중복이 없는 임의의 문자열
+   - 이유 :Commit ID는 중복이 없는 임의의 문자열(고유값이어야 하기때문에)
